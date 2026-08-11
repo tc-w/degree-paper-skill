@@ -1,0 +1,4 @@
+书名:Professional CMake: A Practical Guide
+作者:Craig Scott
+Published January 21, 2026 by Crascit Pty Ltd
+ISBN:9781925904383 (ISBN10:1925904385)
